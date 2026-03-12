@@ -11,10 +11,10 @@
     </p>
     <p class="mb-10">
         <a
-            href="https://github.com/arothstein/goodpassphrase"
+            href="https://github.com/arothstein/goodpassphrase-svelte"
             class="text-blue-600 hover:underline break-all"
         >
-            https://github.com/arothstein/goodpassphrase
+            https://github.com/arothstein/goodpassphrase-svelte
         </a>
     </p>
 

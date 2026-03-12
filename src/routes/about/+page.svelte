@@ -111,7 +111,7 @@
             values you see in the passphrase generator:
             <br />
             <a
-                href="https://docs.google.com/spreadsheets/d/1v2UHI4cVqInAPoNkMJXXhJhMMgv9BR3jfOubgisbS3U/edit?usp=sharing"
+                href="https://docs.google.com/spreadsheets/d/1ndNWWdNa1TCnwbeCSOtz5o7IO5NwWzUW6IuPSwZwy8E/edit?usp=sharing"
                 class="text-blue-600 hover:underline"
                 >Diceware-Passphrase Complexity Calculations | docs.google.com</a
             >
